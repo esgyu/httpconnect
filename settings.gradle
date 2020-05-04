@@ -1,0 +1,2 @@
+rootProject.name='httpconnect'
+include ':app'
